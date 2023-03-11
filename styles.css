@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    width: 100%;
+    grid-template-areas:
+}
+
+.header {
+    grit-row: 1/2;
+    grit-column: 1/5;
+}
